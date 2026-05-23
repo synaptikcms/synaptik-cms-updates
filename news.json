@@ -1,0 +1,9 @@
+{
+    "news": [
+        {
+            "date": "2026-05-23",
+            "type": "info",
+            "message": "Welcome to SynaptikCMS beta! Report bugs and feedback on GitHub."
+        }
+    ]
+}
