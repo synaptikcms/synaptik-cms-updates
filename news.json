@@ -2,7 +2,7 @@
     "news": [
         {
             "date": "2026-05-23",
-            "expires": "2026-05-26",
+            "expires": "2026-05-27",
             "type": "info",
             "message": "Welcome to SynaptikCMS beta 2! Report bugs and feedback on GitHub.",
             "url": "https://github.com/SynaptikCMS/SynaptikCMS/issues",
