@@ -1,6 +1,6 @@
 {
     "version": "1.0",
     "released": "2026-06-05",
-    "notes": "Public version",
-    "download_url": "https://synaptikcms.com/releases/synaptikcms-v1.0.zip"
+    "notes": "Initial Release",
+    "download_url": "https://github.com/synaptikcms/synaptik-cms/archive/refs/tags/v1.0.zip"
 }
