@@ -1,18 +1,10 @@
 {
     "news": [
         {
-            "date": "2026-06-05",
-            "expires": "2026-06-30",
+            "date": "2026-06-06",
+            "expires": "2026-07-30",
             "type": "info",
-            "message": "Welcome to SynaptikCMS beta 3! Please report bugs and give feedback on GitHub.",
-            "url": "https://github.com/synaptikcms/synaptik-cms/issues",
-            "url_label": "Report a bug"
-        },
-        {
-            "date": "2026-05-28",
-            "expires": "2026-05-27",
-            "type": "info",
-            "message": "Welcome to SynaptikCMS beta 2! Report bugs and feedback on GitHub.",
+            "message": "Welcome to SynaptikCMS 1.0! We hope you enjoy your new CMS. Please report any bugs and give feedback on GitHub discussions, any contribution to the improvement of Synaptik is much appreciated.",
             "url": "https://github.com/synaptikcms/synaptik-cms/issues",
             "url_label": "Report a bug"
         }
