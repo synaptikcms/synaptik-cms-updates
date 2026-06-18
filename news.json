@@ -4,13 +4,13 @@
             "date": "2026-06-13",
             "expires": "2026-07-30",
             "type": "info",
-            "message": "SynaptikCMS 1.1 is already out with a more modern admin interface, tons of improvements and a few bug fixes! \nPlease consider supporting the project by making a donation, to ensure it continues to evolve and improve.",
+            "message": "SynaptikCMS 1.1 is out with a more modern admin interface, tons of improvements and a few bug fixes! \nPlease consider supporting the project by making a donation, to ensure it continues to evolve and improve.",
             "url": "https://synaptikcms.com/contribute/",
             "url_label": "Make a donation"
         },
         {
             "date": "2026-06-06",
-            "expires": "2026-06-30",
+            "expires": "2026-06-18",
             "type": "info",
             "message": "Welcome to SynaptikCMS 1.0! We hope you enjoy your new CMS. Please report any bugs and give feedback on GitHub discussions, any contribution to the improvement of Synaptik is much appreciated.",
             "url": "https://github.com/synaptikcms/synaptik-cms/issues",
