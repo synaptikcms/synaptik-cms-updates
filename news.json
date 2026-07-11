@@ -4,6 +4,14 @@
             "date": "2026-06-26",
             "expires": "2026-08-26",
             "type": "info",
+            "message": "SynaptikCMS 1.2.1 brings several bug fixes and improvements. \nIf you enjoy this free CMS, please consider supporting the project to ensure its continued development by making a donation!",
+            "url": "https://synaptikcms.com/contribute/",
+            "url_label": "Make a donation"
+        },
+        {
+            "date": "2026-06-26",
+            "expires": "2026-07-12",
+            "type": "info",
             "message": "SynaptikCMS 1.2 is out! This version brings achitecture improvements, new admin tools and bug fixes. \nIf you enjoy this free CMS, please consider supporting the project to ensure its continued development by making a donation!",
             "url": "https://synaptikcms.com/contribute/",
             "url_label": "Make a donation"
