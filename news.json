@@ -1,8 +1,16 @@
 {
     "news": [
         {
-            "date": "2026-06-26",
-            "expires": "2026-08-26",
+            "date": "2026-07-18",
+            "expires": "2026-08-18",
+            "type": "info",
+            "message": "SynaptikCMS v1.3 brings a brand new plugin system. You can now use the existing plugins from the SynaptikCMS website or code your own! \nIf you enjoy this free CMS, please consider supporting the project to ensure its continued development by making a donation!",
+            "url": "https://synaptikcms.com/contribute/",
+            "url_label": "Make a donation"
+        },
+        {
+            "date": "2026-07-11",
+            "expires": "2026-07-18",
             "type": "info",
             "message": "SynaptikCMS 1.2.1 brings several bug fixes and improvements. \nIf you enjoy this free CMS, please consider supporting the project to ensure its continued development by making a donation!",
             "url": "https://synaptikcms.com/contribute/",
