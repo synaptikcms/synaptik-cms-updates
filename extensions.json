@@ -1,12 +1,16 @@
 {
     "themes": {
-        "vanta": {
-            "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/themes/vanta.zip"
-        },
         "axion": {
             "version": "1.0.1",
             "download_url": "https://synaptikcms.com/files/themes/axion.zip"
+        },
+        "atrium": {
+            "version": "1.0.2",
+            "download_url": "https://synaptikcms.com/files/themes/atrium.zip"
+        },
+        "vanta": {
+            "version": "1.0.2",
+            "download_url": "https://synaptikcms.com/files/themes/vanta.zip"
         }
     },
     "plugins": {
