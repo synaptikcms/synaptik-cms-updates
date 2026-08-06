@@ -2,21 +2,21 @@
     "themes": {
         "vanta": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/themes/vanta-v1.3.0.zip"
+            "download_url": "https://synaptikcms.com/files/themes/vanta.zip"
         },
         "axion": {
             "version": "1.0.1",
-            "download_url": "https://synaptikcms.com/files/themes/axion-v1.2.0.zip"
+            "download_url": "https://synaptikcms.com/files/themes/axion.zip"
         }
     },
     "plugins": {
         "booking": {
             "version": "1.1.4",
-            "download_url": "https://synaptikcms.com/files/plugins/booking-v2.0.1.zip"
+            "download_url": "https://synaptikcms.com/files/plugins/booking.zip"
         },
         "newsletter": {
             "version": "1.0.3",
-            "download_url": "https://synaptikcms.com/files/plugins/newsletter-v1.4.0.zip"
+            "download_url": "https://synaptikcms.com/files/plugins/newsletter.zip"
         }
     }
 }
