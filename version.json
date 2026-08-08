@@ -1,7 +1,7 @@
 {
-    "version": "1.3.3",
-    "released": "2026-08-06",
-    "notes": "New cookie consent plugin, core restructure, and SEO noindex on archive pages. If using a non-default theme, redownload your theme from the official website to get the Google \u2192 Bunny Fonts switch.",
+    "version": "1.3.4",
+    "released": "2026-08-08",
+    "notes": "Automatic theme and plugin updates, a new Analytics plugin, a new Vitae CV/portfolio theme, cleaner root directory structure, and several bug fixes.",
     "changelog_url": "https://github.com/synaptikcms/synaptik-cms/blob/main/CHANGELOG.md",
     "download_url": "https://synaptikcms.com/files/releases/synaptikcms-latest.zip"
 }
