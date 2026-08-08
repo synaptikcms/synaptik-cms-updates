@@ -1,8 +1,16 @@
 {
     "news": [
         {
-            "date": "2026-08-06",
+            "date": "2026-08-08",
             "expires": "2026-08-31",
+            "type": "info",
+            "message": "Automatic theme and plugin updates, a new Analytics plugin, a new CV/portfolio theme, cleaner root directory structure, and several bug fixes. \nIf you enjoy this free CMS, please consider ",
+            "url": "https://synaptikcms.com/contribute/",
+            "url_label": "making a donation!"
+        },
+        {
+            "date": "2026-08-06",
+            "expires": "2026-08-07",
             "type": "info",
             "message": "SynaptikCMS v1.3.3 brings core files reorganized, GDPR-friendly fonts, SEO improvements, and several bug fixes. \nIf you enjoy this free CMS, please consider ",
             "url": "https://synaptikcms.com/contribute/",
