@@ -55,15 +55,15 @@
             "download_url": "https://synaptikcms.com/files/plugins/analytics-plugin-synaptikcms.zip"
         },
         "booking": {
-            "version": "1.1.4",
+            "version": "1.1.5",
             "download_url": "https://synaptikcms.com/files/plugins/booking-plugin-synaptikcms.zip"
         },
         "comments": {
-            "version": "1.0.0",
+            "version": "1.0.1",
             "download_url": "https://synaptikcms.com/files/plugins/comments-plugin-synaptikcms.zip"
         },
         "cookie-consent": {
-            "version": "1.0.0",
+            "version": "1.0.1",
             "download_url": "https://synaptikcms.com/files/plugins/cookie-consent-plugin-synaptikcms.zip"
         },
         "formbuilder": {
@@ -75,7 +75,7 @@
             "download_url": "https://synaptikcms.com/files/plugins/maintenance-plugin-synaptikcms.zip"
         },
         "newsletter": {
-            "version": "1.0.3",
+            "version": "1.0.4",
             "download_url": "https://synaptikcms.com/files/plugins/newsletter-plugin-synaptikcms.zip"
         },
         "redirects": {
@@ -83,7 +83,7 @@
             "download_url": "https://synaptikcms.com/files/plugins/redirects-plugin-synaptikcms.zip"
         },
         "reviews": {
-            "version": "1.0.1",
+            "version": "1.0.2",
             "download_url": "https://synaptikcms.com/files/plugins/reviews-plugin-synaptikcms.zip"
         }
     }
