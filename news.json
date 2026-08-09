@@ -12,7 +12,7 @@
             "date": "2026-08-08",
             "expires": "2026-08-31",
             "type": "info",
-            "message": "Automatic theme and plugin updates, a new Analytics plugin, a new CV/portfolio theme, cleaner root directory structure, and several bug fixes.\n",
+            "message": "In v1.3.4: Automatic theme and plugin updates, a new Analytics plugin, a new CV/portfolio theme, cleaner root directory structure, and several bug fixes.\n",
             "url": "https://synaptikcms.com/docs/changelog/",
             "url_label": "Full Changelog."
         },
