@@ -1,5 +1,9 @@
 {
     "themes": {
+        "default": {
+            "version": "1.0.1",
+            "download_url": "https://synaptikcms.com/files/themes/mono.zip"
+        }
         "atrium": {
             "version": "1.0.1",
             "download_url": "https://synaptikcms.com/files/themes/atrium.zip"
