@@ -99,7 +99,7 @@ Fork this repository, open `translations.json`, and add your language:
         "author": "YourGitHubUsername",
         "author_url": "https://github.com/YourGitHubUsername",
         "version": "1.0.0",
-        "download_url": "https://github.com/synaptikcms/synaptik-cms-updates/releases/download/lang-de-1.0.0/lang-de.zip"
+        "download_url": "https://github.com/synaptikcms/synaptik-cms-updates/releases/download/lang-de-1.0.0/lang-de-1.0.0.zip"
     }
 }
 ```
