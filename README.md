@@ -27,7 +27,7 @@ SynaptikCMS ships with English, French and Spanish. All other languages are comm
 
 - **Main CMS repo:** [github.com/synaptikcms/synaptik-cms](https://github.com/synaptikcms/synaptik-cms)
 - **Documentation:** [docs.synaptikcms.com/](https://docs.synaptikcms.com/)
-- **Plugins & Themes:** [synaptikcms.com/plugins](https://synaptikcms.com/plugins)
+- **Plugins & Themes:** [synaptikcms.com/plugins](https://synaptikcms.com/plugins/)
 - **Discussions:** [github.com/synaptikcms/synaptik-cms/discussions](https://github.com/synaptikcms/synaptik-cms/discussions)
 
 ---
