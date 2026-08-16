@@ -1,7 +1,7 @@
 {
-    "version": "1.3.5",
-    "released": "2026-08-14",
-    "notes": "Security update with critical fixes, please update as soon as possible.",
+    "version": "1.3.6",
+    "released": "2026-08-16",
+    "notes": "Security improvements and other fixes.",
     "changelog_url": "https://github.com/synaptikcms/synaptik-cms/blob/main/CHANGELOG.md",
     "download_url": "https://synaptikcms.com/files/releases/synaptikcms-latest.zip"
 }
