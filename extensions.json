@@ -1,83 +1,83 @@
 {
     "themes": {
         "default": {
-            "version": "1.0.3",
+            "version": "1.0.4",
             "download_url": "https://synaptikcms.com/files/themes/default.zip"
         },
         "atrium": {
-            "version": "1.0.3",
+            "version": "1.0.4",
             "download_url": "https://synaptikcms.com/files/themes/atrium.zip"
         },
         "axion": {
-            "version": "1.0.3",
+            "version": "1.0.4",
             "download_url": "https://synaptikcms.com/files/themes/axion.zip"
         },
         "blueish": {
-            "version": "1.3.4",
+            "version": "1.3.5",
             "download_url": "https://synaptikcms.com/files/themes/blueish.zip"
         },
         "darkish": {
-            "version": "1.3.4",
+            "version": "1.3.5",
             "download_url": "https://synaptikcms.com/files/themes/darkish.zip"
         },
         "dispatch": {
-            "version": "1.0.1",
+            "version": "1.0.2",
             "download_url": "https://synaptikcms.com/files/themes/dispatch.zip"
         },
         "gazette": {
-            "version": "1.0.1",
+            "version": "1.0.3",
             "download_url": "https://synaptikcms.com/files/themes/gazette.zip"
         },
         "ink": {
-            "version": "1.0.2",
+            "version": "1.0.4",
             "download_url": "https://synaptikcms.com/files/themes/darkish.zip"
         },
         "linen": {
-            "version": "1.0.0",
+            "version": "1.0.1",
             "download_url": "https://synaptikcms.com/files/themes/linen.zip"
         },
         "myelin": {
-            "version": "1.0.2",
+            "version": "1.0.4",
             "download_url": "https://synaptikcms.com/files/themes/myelin.zip"
         },
         "natura": {
-            "version": "1.1.2",
+            "version": "1.1.4",
             "download_url": "https://synaptikcms.com/files/themes/natura.zip"
         },
         "nova": {
-            "version": "1.1.5",
+            "version": "1.1.6",
             "download_url": "https://synaptikcms.com/files/themes/nova.zip"
         },
         "portfolio": {
-            "version": "1.1.6",
+            "version": "1.1.7",
             "download_url": "https://synaptikcms.com/files/themes/portfolio.zip"
         },
         "prism": {
-            "version": "1.0.4",
+            "version": "1.0.5",
             "download_url": "https://synaptikcms.com/files/themes/prism.zip"
         },
         "shebang": {
-            "version": "1.0.1",
+            "version": "1.0.2",
             "download_url": "https://synaptikcms.com/files/themes/shebang.zip"
         },
         "slab": {
-            "version": "1.0.1",
+            "version": "1.0.2",
             "download_url": "https://synaptikcms.com/files/themes/slab.zip"
         },
         "sudo": {
-            "version": "1.0.1",
+            "version": "1.0.2",
             "download_url": "https://synaptikcms.com/files/themes/sudo.zip"
         },
         "synaptik-docs": {
-            "version": "1.1.8",
+            "version": "1.1.9",
             "download_url": "https://synaptikcms.com/files/themes/synaptik-docs.zip"
         },
         "vanta": {
-            "version": "1.0.3",
+            "version": "1.0.4",
             "download_url": "https://synaptikcms.com/files/themes/vanta.zip"
         },
         "vitae": {
-            "version": "1.0.1",
+            "version": "1.0.3",
             "download_url": "https://synaptikcms.com/files/themes/vitae.zip"
         }
     },
@@ -87,7 +87,7 @@
             "download_url": "https://synaptikcms.com/files/plugins/analytics-plugin-synaptikcms.zip"
         },
         "booking": {
-            "version": "1.1.7",
+            "version": "1.1.8",
             "download_url": "https://synaptikcms.com/files/plugins/booking-plugin-synaptikcms.zip"
         },
         "comments": {
@@ -99,7 +99,7 @@
             "download_url": "https://synaptikcms.com/files/plugins/cookie-consent-plugin-synaptikcms.zip"
         },
         "formbuilder": {
-            "version": "1.0.4",
+            "version": "1.0.5",
             "download_url": "https://synaptikcms.com/files/plugins/formbuilder-plugin-synaptikcms.zip"
         },
         "maintenance": {
@@ -107,7 +107,7 @@
             "download_url": "https://synaptikcms.com/files/plugins/maintenance-plugin-synaptikcms.zip"
         },
         "newsletter": {
-            "version": "1.0.5",
+            "version": "1.0.6",
             "download_url": "https://synaptikcms.com/files/plugins/newsletter-plugin-synaptikcms.zip"
         },
         "redirects": {
@@ -115,7 +115,7 @@
             "download_url": "https://synaptikcms.com/files/plugins/redirects-plugin-synaptikcms.zip"
         },
         "reviews": {
-            "version": "1.0.3",
+            "version": "1.0.4",
             "download_url": "https://synaptikcms.com/files/plugins/reviews-plugin-synaptikcms.zip"
         },
         "wp-importer": {
