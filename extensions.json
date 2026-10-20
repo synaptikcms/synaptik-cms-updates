@@ -83,7 +83,7 @@
     },
     "plugins": {
         "analytics": {
-            "version": "1.0.3",
+            "version": "1.0.4",
             "download_url": "https://synaptikcms.com/files/plugins/analytics-plugin-synaptikcms.zip"
         },
         "booking": {
