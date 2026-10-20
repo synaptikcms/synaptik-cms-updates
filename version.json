@@ -1,7 +1,7 @@
 {
-    "version": "1.4.6",
-    "released": "2026-10-03",
-    "notes": "New custom content types, improvements, fixes.",
+    "version": "1.4.7",
+    "released": "2026-10-20",
+    "notes": "Fixes and improvements.",
     "changelog_url": "https://github.com/synaptikcms/synaptik-cms/blob/main/CHANGELOG.md",
     "download_url": "https://synaptikcms.com/files/releases/synaptikcms-v1.4.6.zip"
 }
