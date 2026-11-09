@@ -84,43 +84,43 @@
     "plugins": {
         "analytics": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/plugins/analytics-plugin-synaptikcms.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/analytics-v1.0.4/analytics-plugin-synaptikcms.zip"
         },
         "booking": {
-            "version": "1.1.8",
-            "download_url": "https://synaptikcms.com/files/plugins/booking-plugin-synaptikcms.zip"
+            "version": "1.1.9",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/booking-v1.1.9/booking-plugin-synaptikcms.zip"
         },
         "comments": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/plugins/comments-plugin-synaptikcms.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/comments-v1.0.2/comments-plugin-synaptikcms.zip"
         },
         "cookie-consent": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/plugins/cookie-consent-plugin-synaptikcms.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/cookie-consent-v1.0.2/cookie-consent-plugin-synaptikcms.zip"
         },
         "formbuilder": {
             "version": "1.0.5",
-            "download_url": "https://synaptikcms.com/files/plugins/formbuilder-plugin-synaptikcms.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/formbuilder-v1.0.5/formbuilder-plugin-synaptikcms.zip"
         },
         "maintenance": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/plugins/maintenance-plugin-synaptikcms.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/maintenance-v1.0.4/maintenance-plugin-synaptikcms.zip"
         },
         "newsletter": {
-            "version": "1.0.6",
-            "download_url": "https://synaptikcms.com/files/plugins/newsletter-plugin-synaptikcms.zip"
+            "version": "1.0.7",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/newsletter-v1.0.7/newsletter-plugin-synaptikcms.zip"
         },
         "redirects": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/plugins/redirects-plugin-synaptikcms.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/redirects-v1.0.2/redirects-plugin-synaptikcms.zip"
         },
         "reviews": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/plugins/reviews-plugin-synaptikcms.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/reviews-v1.0.4/reviews-plugin-synaptikcms.zip"
         },
         "wp-importer": {
             "version": "1.0.1",
-            "download_url": "https://synaptikcms.com/files/plugins/wp-importer-plugin-synaptikcms.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/wp-importer-v1.0.1/wp-importer-plugin-synaptikcms.zip"
         }
     }
 }
