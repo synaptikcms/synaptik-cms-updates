@@ -2,83 +2,83 @@
     "themes": {
         "default": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/default.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/default-v1.0.4/default-theme-synaptikcms.zip"
         },
         "atrium": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/atrium.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/atrium-v1.0.4/atrium-theme-synaptikcms.zip"
         },
         "axion": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/axion.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/axion-v1.0.4/axion-theme-synaptikcms.zip"
         },
         "blueish": {
             "version": "1.3.5",
-            "download_url": "https://synaptikcms.com/files/themes/blueish.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/blueish-v1.3.5/blueish-theme-synaptikcms.zip"
         },
         "darkish": {
             "version": "1.3.5",
-            "download_url": "https://synaptikcms.com/files/themes/darkish.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/darkish-v1.3.5/darkish-theme-synaptikcms.zip"
         },
         "dispatch": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/themes/dispatch.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/dispatch-v1.0.2/dispatch-theme-synaptikcms.zip"
         },
         "gazette": {
             "version": "1.0.3",
-            "download_url": "https://synaptikcms.com/files/themes/gazette.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/gazette-v1.0.3/gazette-theme-synaptikcms.zip"
         },
         "ink": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/darkish.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/ink-v1.0.4/ink-theme-synaptikcms.zip"
         },
         "linen": {
             "version": "1.0.1",
-            "download_url": "https://synaptikcms.com/files/themes/linen.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/linen-v1.0.1/linen-theme-synaptikcms.zip"
         },
         "myelin": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/myelin.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/myelin-v1.0.4/myelin-theme-synaptikcms.zip"
         },
         "natura": {
             "version": "1.1.4",
-            "download_url": "https://synaptikcms.com/files/themes/natura.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/natura-v1.1.4/natura-theme-synaptikcms.zip"
         },
         "nova": {
             "version": "1.1.6",
-            "download_url": "https://synaptikcms.com/files/themes/nova.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/nova-v1.1.6/nova-theme-synaptikcms.zip"
         },
         "portfolio": {
             "version": "1.1.7",
-            "download_url": "https://synaptikcms.com/files/themes/portfolio.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/portfolio-v1.1.7/portfolio-theme-synaptikcms.zip"
         },
         "prism": {
             "version": "1.0.5",
-            "download_url": "https://synaptikcms.com/files/themes/prism.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/prism-v1.0.5/prism-theme-synaptikcms.zip"
         },
         "shebang": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/themes/shebang.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/shebang-v1.0.2/shebang-theme-synaptikcms.zip"
         },
         "slab": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/themes/slab.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/slab-v1.0.2/slab-theme-synaptikcms.zip"
         },
         "sudo": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/themes/sudo.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/sudo-v1.0.2/sudo-theme-synaptikcms.zip"
         },
         "synaptik-docs": {
             "version": "1.1.9",
-            "download_url": "https://synaptikcms.com/files/themes/synaptik-docs.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/synaptik-docs-v1.1.9/synaptik-docs-theme-synaptikcms.zip"
         },
         "vanta": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/vanta.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/vanta-v1.0.4/vanta-theme-synaptikcms.zip"
         },
         "vitae": {
             "version": "1.0.3",
-            "download_url": "https://synaptikcms.com/files/themes/vitae.zip"
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/vitae-v1.0.3/vitae-theme-synaptikcms.zip"
         }
     },
     "plugins": {
