@@ -83,8 +83,8 @@
     },
     "plugins": {
         "analytics": {
-            "version": "1.0.4",
-            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/analytics-v1.0.4/analytics-plugin-synaptikcms.zip"
+            "version": "1.0.5",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/analytics-v1.0.5/analytics-plugin-synaptikcms.zip"
         },
         "booking": {
             "version": "1.1.9",
@@ -115,8 +115,8 @@
             "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/redirects-v1.0.2/redirects-plugin-synaptikcms.zip"
         },
         "reviews": {
-            "version": "1.0.4",
-            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/reviews-v1.0.4/reviews-plugin-synaptikcms.zip"
+            "version": "1.0.5",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/reviews-v1.0.5/reviews-plugin-synaptikcms.zip"
         },
         "wp-importer": {
             "version": "1.0.1",
