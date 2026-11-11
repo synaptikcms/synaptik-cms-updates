@@ -4,17 +4,6 @@ This repository powers the update registry and community contributions for [Syna
 
 ---
 
-## What's in this repo
-
-| File | Purpose |
-|---|---|
-| `extensions.json` | Registry of official themes and plugins — used by the CMS to check for updates |
-| `translations.json` | Community language packs — displayed on [synaptikcms.com/language-packs/](https://synaptikcms.com/language-packs/) |
-| `version.json` | Latest CMS core version — used by the admin update checker |
-| `news.json` | Dashboard news feed shown in the admin panel |
-
----
-
 ## Contributing a language pack
 
 SynaptikCMS ships with English, French and Spanish. All other languages are community-contributed and listed on the [Language Packs page](https://synaptikcms.com/language-packs/).
