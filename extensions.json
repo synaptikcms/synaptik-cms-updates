@@ -2,7 +2,7 @@
     "themes": {
         "default": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/default.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/default-v1.0.4/default-theme-synaptikcms.zip",
             "name": "Mono",
             "description": "A sidebar-first minimalist theme, ideal for writers and bloggers. Fixed left navigation, warm off-white palette, and a title-list layout that keeps the focus on content over decoration.",
             "author": "Synaptik",
@@ -13,7 +13,7 @@
         },
         "atrium": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/atrium.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/atrium-v1.0.4/atrium-theme-synaptikcms.zip",
             "name": "Atrium",
             "description": "Editorial gallery-grade theme inspired by contemporary art spaces. Generous whitespace, oversized serif typography, curtain page transitions, scroll-driven reveals, a soft custom cursor, and an ink-spread dark/light switcher. Ships with two distinctive page templates: a corporate studio landing and an exhibition program page.",
             "author": "Synaptik",
@@ -24,7 +24,7 @@
         },
         "axion": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/axion.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/axion-v1.0.4/axion-theme-synaptikcms.zip",
             "name": "Axion",
             "description": "An editorial, asymmetric flagship theme with a floating pill navigation, oversized typographic hero, distinctive section layouts for each page template (corporate walkthrough, personal long-form, editorial blog, bento portfolio, split contact), full shortcode and gallery styling, and refined animations.",
             "author": "Synaptik",
@@ -35,7 +35,7 @@
         },
         "blueish": {
             "version": "1.3.5",
-            "download_url": "https://synaptikcms.com/files/themes/blueish.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/blueish-v1.3.5/blueish-theme-synaptikcms.zip",
             "name": "Blueish",
             "description": "A dark navy variation of Darkish Theme — same condensed display typography, same layout, swapped to a deep blue-slate background with orange highlights.",
             "author": "Synaptik",
@@ -46,7 +46,7 @@
         },
         "darkish": {
             "version": "1.3.5",
-            "download_url": "https://synaptikcms.com/files/themes/darkish.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/darkish-v1.3.5/darkish-theme-synaptikcms.zip",
             "name": "Darkish",
             "description": "A dark theme with a near-black green-tinted background, condensed display headings, contrasted body text, and green highlights throughout.",
             "author": "Synaptik",
@@ -57,7 +57,7 @@
         },
         "dispatch": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/themes/dispatch.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/dispatch-v1.0.2/dispatch-theme-synaptikcms.zip",
             "name": "Dispatch",
             "description": "Ultra-minimal single-column blog theme. A thin changelog-style timeline rail marks the latest articles by date on the homepage and archive listings, with a single coral accent and generous whitespace. Ships with Wide and Changelog page templates.",
             "author": "Synaptik",
@@ -67,7 +67,7 @@
         },
         "gazette": {
             "version": "1.0.3",
-            "download_url": "https://synaptikcms.com/files/themes/gazette.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/gazette-v1.0.3/gazette-theme-synaptikcms.zip",
             "name": "Gazette",
             "description": "Print-newspaper theme for chronological blogs. Masthead header, full-serif typography with drop caps, and a persistent dated-archive sidebar on every page. Ships with Full Width and Archive page templates.",
             "author": "Synaptik",
@@ -77,7 +77,7 @@
         },
         "ink": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/darkish.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/ink-v1.0.4/ink-theme-synaptikcms.zip",
             "name": "Ink",
             "description": "Clean, minimalist editorial theme for writers and bloggers. Light/Dark switch, big type, clean masonry card grid, burger menu, and nothing to distract from the content.",
             "author": "Synaptik",
@@ -88,7 +88,7 @@
         },
         "linen": {
             "version": "1.0.1",
-            "download_url": "https://synaptikcms.com/files/themes/linen.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/linen-v1.0.1/linen-theme-synaptikcms.zip",
             "name": "Linen",
             "description": "Warm, handmade-feeling theme for small businesses, artisans and personal blogs. Centered masthead header, true masonry card grid with organic image heights and a gentle tilt, rounded paper-card content view, peach and sage pastel palette. System serif headings, zero external requests.",
             "author": "Synaptik",
@@ -98,7 +98,7 @@
         },
         "myelin": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/myelin.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/myelin-v1.0.4/myelin-theme-synaptikcms.zip",
             "name": "Myelin",
             "description": "An ultra-clean, versatile flagship theme inspired by neural anatomy. Warm neutral palette, refined typography, subtle animations, and dedicated page templates for corporate, personal, blog and portfolio sites. Ships with a sticky dropdown navigation, full shortcode and gallery styling, polished contact form, related content, and custom fields.",
             "author": "Synaptik",
@@ -109,7 +109,7 @@
         },
         "natura": {
             "version": "1.1.4",
-            "download_url": "https://synaptikcms.com/files/themes/natura.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/natura-v1.1.4/natura-theme-synaptikcms.zip",
             "name": "Natura",
             "description": "An earthy, nature-inspired dark theme featuring floating leaf particles, a sticky header with animated botanical decoration and smooth scroll-reveal effects.",
             "author": "Synaptik",
@@ -120,7 +120,7 @@
         },
         "nova": {
             "version": "1.1.6",
-            "download_url": "https://synaptikcms.com/files/themes/nova.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/nova-v1.1.6/nova-theme-synaptikcms.zip",
             "name": "Nova",
             "description": "A modern, animated theme featuring a full-screen hero, sticky transparent header with burger navigation, orange and teal accents on a clean white canva.",
             "author": "Synaptik",
@@ -131,7 +131,7 @@
         },
         "portfolio": {
             "version": "1.1.7",
-            "download_url": "https://synaptikcms.com/files/themes/portfolio.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/portfolio-v1.1.7/portfolio-theme-synaptikcms.zip",
             "name": "Portfolio",
             "description": "A vibrant, animated portfolio theme for artists and creative professionals. Features a bento-grid layout, bold typography, and rich project display.",
             "author": "Synaptik",
@@ -142,7 +142,7 @@
         },
         "prism": {
             "version": "1.0.5",
-            "download_url": "https://synaptikcms.com/files/themes/prism.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/prism-v1.0.5/prism-theme-synaptikcms.zip",
             "name": "Prism",
             "description": "Vibrant flat-design theme with a 5-color palette, dark/light mode switcher, horizontal article cards, square color-flip project tiles, and clip-path scroll reveals.",
             "author": "Synaptik",
@@ -153,7 +153,7 @@
         },
         "shebang": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/themes/shebang.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/shebang-v1.0.2/shebang-theme-synaptikcms.zip",
             "name": "Shebang",
             "description": "Monospace developer theme: terminal-inspired typography end to end, prompt-style navigation, dashed-border cards, indigo accent. System monospace stack only, automatic light/dark via prefers-color-scheme, no JavaScript required.",
             "author": "Synaptik",
@@ -163,7 +163,7 @@
         },
         "slab": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/themes/slab.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/slab-v1.0.2/slab-theme-synaptikcms.zip",
             "name": "Slab",
             "description": "Neo-brutalist theme: thick black borders, hard offset shadows, no rounded corners, oversized uppercase headings on a cream background with an electric-lime accent. System fonts only, zero external requests, CSS-only mobile nav.",
             "author": "Synaptik",
@@ -173,7 +173,7 @@
         },
         "sudo": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/themes/sudo.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/sudo-v1.0.2/sudo-theme-synaptikcms.zip",
             "name": "Sudo",
             "description": "IDE-inspired developer theme: fixed sidebar file-tree navigation, a file tab bar, a directory-listing home and archive view instead of card grids, and a status bar footer. Monospace throughout, automatic light/dark via prefers-color-scheme, no JavaScript required.",
             "author": "Synaptik",
@@ -183,7 +183,7 @@
         },
         "synaptik-docs": {
             "version": "1.1.9",
-            "download_url": "https://synaptikcms.com/files/themes/synaptik-docs.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/synaptik-docs-v1.1.9/synaptik-docs-theme-synaptikcms.zip",
             "name": "Synaptik-docs",
             "description": "A clean, documentation-focused theme with a collapsible sidebar, in-page TOC, light/dark mode toggle, and inline search dropdown. Designed for structured technical content.",
             "author": "Synaptik",
@@ -194,7 +194,7 @@
         },
         "vanta": {
             "version": "1.0.4",
-            "download_url": "https://synaptikcms.com/files/themes/vanta.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/vanta-v1.0.4/vanta-theme-synaptikcms.zip",
             "name": "Vanta",
             "description": "A dark editorial theme with bold typography, bright green accent colour, top navigation, dropdown search field and card-based grid layout.",
             "author": "Synaptik",
@@ -205,7 +205,7 @@
         },
         "vitae": {
             "version": "1.0.3",
-            "download_url": "https://synaptikcms.com/files/themes/vitae.zip",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-themes/releases/download/vitae-v1.0.3/vitae-theme-synaptikcms.zip",
             "name": "Vitae",
             "description": "CV/portfolio theme with identity card hero, animated skill bars, experience timeline, masonry project grid, dark/light toggle, and styled contact form. All CV data is managed from a single admin page.",
             "author": "Synaptik",
@@ -217,8 +217,8 @@
     },
     "plugins": {
         "analytics": {
-            "version": "1.0.4",
-            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/analytics-v1.0.4/analytics-plugin-synaptikcms.zip",
+            "version": "1.0.5",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/analytics-v1.0.5/analytics-plugin-synaptikcms.zip",
             "name": "Analytics",
             "description": "Lightweight server-side analytics: page views, unique visitors, referrer URLs, traffic sources, device breakdown, and country geolocation — no external scripts, no cookies, GDPR-friendly.",
             "author": "Synaptik",
@@ -305,8 +305,8 @@
             "color": "#6ee7b7"
         },
         "reviews": {
-            "version": "1.0.4",
-            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/reviews-v1.0.4/reviews-plugin-synaptikcms.zip",
+            "version": "1.0.5",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/reviews-v1.0.5/reviews-plugin-synaptikcms.zip",
             "name": "Reviews",
             "description": "Customer reviews with a manual admin-managed list, displayed as a carousel or grid via shortcode.",
             "author": "Synaptik",
