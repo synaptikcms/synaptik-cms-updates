@@ -14,6 +14,7 @@ TAG = re.compile(r'^(?P<slug>[a-z0-9_-]+)-v(?P<version>\d+(?:\.\d+)*)$')
 TARGET = 'extensions.json'
 MANIFESTS = {'plugins': 'plugin.json', 'themes': 'theme.json'}
 META_FIELDS = ('name', 'description', 'author', 'author_url', 'info_url', 'demo_url', 'icon', 'color')
+SITE = 'https://synaptikcms.com/'
 PREVIEWS = ('preview.jpg', 'preview.jpeg', 'preview.png', 'preview.webp')
 
 
@@ -61,16 +62,32 @@ def raw_request(url, method):
         raise
 
 
+def url_alive(url):
+    if not url.startswith('http'):
+        url = SITE + url.lstrip('/')
+    request = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 synaptik-extensions-registry'})
+    try:
+        with urllib.request.urlopen(request, timeout=30):
+            return True
+    except urllib.error.HTTPError as error:
+        return error.code not in (404, 410)
+    except urllib.error.URLError:
+        return True
+
+
 def fetch_meta(section, repo, slug, version):
     tag = '%s-v%s' % (slug, version)
     body = raw_request(raw_url(repo, tag, '%s/%s' % (slug, MANIFESTS[section])), 'GET')
     if body is None:
-        return {}
+        return None
     try:
         manifest = json.loads(body)
     except ValueError:
-        return {}
+        return None
     meta = {key: manifest[key] for key in META_FIELDS if isinstance(manifest.get(key), str) and manifest[key]}
+    for key in ('info_url', 'demo_url'):
+        if key in meta and not url_alive(meta[key]):
+            del meta[key]
     for name in PREVIEWS:
         url = raw_url(repo, tag, '%s/%s' % (slug, name))
         if raw_request(url, 'HEAD') is not None:
@@ -111,12 +128,17 @@ def main():
             current = entries.get(slug)
             if current and version_key(current.get('version', '0')) > version_key(version):
                 continue
-            if current and current.get('version') == version and 'name' in current:
-                continue
             entry = dict(current or {})
             entry['version'] = version
             entry['download_url'] = url
-            entry.update(fetch_meta(section, repo, slug, version))
+            try:
+                meta = fetch_meta(section, repo, slug, version)
+            except (urllib.error.URLError, OSError):
+                meta = None
+            if meta is not None:
+                entry.pop('info_url', None)
+                entry.pop('demo_url', None)
+                entry.update(meta)
             entries[slug] = entry
             print('%s/%s -> %s' % (section, slug, version))
 

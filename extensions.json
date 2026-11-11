@@ -62,7 +62,6 @@
             "description": "Ultra-minimal single-column blog theme. A thin changelog-style timeline rail marks the latest articles by date on the homepage and archive listings, with a single coral accent and generous whitespace. Ships with Wide and Changelog page templates.",
             "author": "Synaptik",
             "author_url": "https://synaptikcms.com",
-            "info_url": "https://synaptikcms.com/theme-info/dispatch-theme/",
             "preview": "https://raw.githubusercontent.com/synaptikcms/synaptik-cms-themes/dispatch-v1.0.2/dispatch/preview.webp"
         },
         "gazette": {
@@ -72,7 +71,6 @@
             "description": "Print-newspaper theme for chronological blogs. Masthead header, full-serif typography with drop caps, and a persistent dated-archive sidebar on every page. Ships with Full Width and Archive page templates.",
             "author": "Synaptik",
             "author_url": "https://synaptikcms.com",
-            "info_url": "https://synaptikcms.com/theme-info/gazette-theme/",
             "preview": "https://raw.githubusercontent.com/synaptikcms/synaptik-cms-themes/gazette-v1.0.3/gazette/preview.webp"
         },
         "ink": {
@@ -93,7 +91,6 @@
             "description": "Warm, handmade-feeling theme for small businesses, artisans and personal blogs. Centered masthead header, true masonry card grid with organic image heights and a gentle tilt, rounded paper-card content view, peach and sage pastel palette. System serif headings, zero external requests.",
             "author": "Synaptik",
             "author_url": "https://synaptikcms.com",
-            "info_url": "https://synaptikcms.com/theme-info/linen-theme/",
             "preview": "https://raw.githubusercontent.com/synaptikcms/synaptik-cms-themes/linen-v1.0.1/linen/preview.webp"
         },
         "myelin": {
@@ -158,7 +155,6 @@
             "description": "Monospace developer theme: terminal-inspired typography end to end, prompt-style navigation, dashed-border cards, indigo accent. System monospace stack only, automatic light/dark via prefers-color-scheme, no JavaScript required.",
             "author": "Synaptik",
             "author_url": "https://synaptikcms.com",
-            "info_url": "https://synaptikcms.com/theme-info/shebang-theme/",
             "preview": "https://raw.githubusercontent.com/synaptikcms/synaptik-cms-themes/shebang-v1.0.2/shebang/preview.webp"
         },
         "slab": {
@@ -168,7 +164,6 @@
             "description": "Neo-brutalist theme: thick black borders, hard offset shadows, no rounded corners, oversized uppercase headings on a cream background with an electric-lime accent. System fonts only, zero external requests, CSS-only mobile nav.",
             "author": "Synaptik",
             "author_url": "https://synaptikcms.com",
-            "info_url": "https://synaptikcms.com/theme-info/slab-theme/",
             "preview": "https://raw.githubusercontent.com/synaptikcms/synaptik-cms-themes/slab-v1.0.2/slab/preview.webp"
         },
         "sudo": {
@@ -178,7 +173,6 @@
             "description": "IDE-inspired developer theme: fixed sidebar file-tree navigation, a file tab bar, a directory-listing home and archive view instead of card grids, and a status bar footer. Monospace throughout, automatic light/dark via prefers-color-scheme, no JavaScript required.",
             "author": "Synaptik",
             "author_url": "https://synaptikcms.com",
-            "info_url": "https://synaptikcms.com/theme-info/sudo-theme/",
             "preview": "https://raw.githubusercontent.com/synaptikcms/synaptik-cms-themes/sudo-v1.0.2/sudo/preview.webp"
         },
         "synaptik-docs": {
