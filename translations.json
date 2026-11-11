@@ -7,4 +7,12 @@
         "version": "1.4.3",
         "download_url": "https://github.com/treeandcoffee/synaptikcms-lang-de/releases/download/1.4.3/lang.zip"
     }
+    "se": {
+        "name": "Swedish",
+        "native": "Svenska",
+        "author": "@akvariefisk",
+        "author_url": "https://github.com/akvariefisk",
+        "version": "1.4.7",
+        "download_url": "https://github.com/treeandcoffee/synaptikcms-lang-se/releases/download/1.4.7/lang-se-1.4.7.zip"
+    }
 }
