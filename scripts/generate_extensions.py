@@ -12,6 +12,9 @@ SOURCES = {
 }
 TAG = re.compile(r'^(?P<slug>[a-z0-9_-]+)-v(?P<version>\d+(?:\.\d+)*)$')
 TARGET = 'extensions.json'
+MANIFESTS = {'plugins': 'plugin.json', 'themes': 'theme.json'}
+META_FIELDS = ('name', 'description', 'author', 'author_url', 'info_url', 'demo_url', 'icon', 'color')
+PREVIEWS = ('preview.jpg', 'preview.jpeg', 'preview.png', 'preview.webp')
 
 
 def version_key(version):
@@ -41,6 +44,39 @@ def fetch_releases(repo):
         if len(batch) < 100:
             break
     return releases
+
+
+def raw_url(repo, tag, path):
+    return 'https://raw.githubusercontent.com/%s/%s/%s/%s' % (OWNER, repo, tag, path)
+
+
+def raw_request(url, method):
+    request = urllib.request.Request(url, method=method, headers={'User-Agent': 'synaptik-extensions-registry'})
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            return response.read() if method == 'GET' else b''
+    except urllib.error.HTTPError as error:
+        if error.code == 404:
+            return None
+        raise
+
+
+def fetch_meta(section, repo, slug, version):
+    tag = '%s-v%s' % (slug, version)
+    body = raw_request(raw_url(repo, tag, '%s/%s' % (slug, MANIFESTS[section])), 'GET')
+    if body is None:
+        return {}
+    try:
+        manifest = json.loads(body)
+    except ValueError:
+        return {}
+    meta = {key: manifest[key] for key in META_FIELDS if isinstance(manifest.get(key), str) and manifest[key]}
+    for name in PREVIEWS:
+        url = raw_url(repo, tag, '%s/%s' % (slug, name))
+        if raw_request(url, 'HEAD') is not None:
+            meta['preview'] = url
+            break
+    return meta
 
 
 def latest_by_slug(releases):
@@ -75,9 +111,12 @@ def main():
             current = entries.get(slug)
             if current and version_key(current.get('version', '0')) > version_key(version):
                 continue
+            if current and current.get('version') == version and 'name' in current:
+                continue
             entry = dict(current or {})
             entry['version'] = version
             entry['download_url'] = url
+            entry.update(fetch_meta(section, repo, slug, version))
             entries[slug] = entry
             print('%s/%s -> %s' % (section, slug, version))
 
