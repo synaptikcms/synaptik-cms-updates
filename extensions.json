@@ -331,8 +331,8 @@
             "color": "#f9a8d4"
         },
         "visual-page-builder": {
-            "version": "2.0.0",
-            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/visual-page-builder-v2.0.0/visual-page-builder-plugin-synaptikcms.zip",
+            "version": "1.0.0",
+            "download_url": "https://github.com/synaptikcms/synaptik-cms-plugins/releases/download/visual-page-builder-v1.0.0/visual-page-builder-plugin-synaptikcms.zip",
             "name": "Visual Page Builder",
             "description": "Visual section builder: add, reorder and edit page sections, colours, FAQ items and per-language text, with live preview.",
             "author": "Synaptik",
